@@ -13,4 +13,6 @@ Then you can go ahead running the Typescript
 
 ``` ts-node recoverkp.ts ```
 
-# A file will be created on your folder with the keypair for your imported wallet.
+### A file will be created on your folder with the keypair for your imported wallet.
+
+For further assist: TG _t.me/kensgx_
