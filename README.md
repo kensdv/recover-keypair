@@ -15,4 +15,4 @@ Then you can go ahead running the Typescript
 
 ### A file will be created on your folder with the keypair for your imported wallet.
 
-For further assist: TG _t.me/kensgx_
+For further assist: TG _https://t.me/kensgx_
