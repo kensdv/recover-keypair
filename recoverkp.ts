@@ -12,6 +12,6 @@ for (let byte of uint8bytes){
 
 fs.writeFile("keypair.json", JSON.stringify(bytelist), (err) => {
     if (err) { console.error(err); return; };
-    console.log("Key Pair file is created!");
+    console.log("Key Pair file is created! Powered by Seguro Devs");
 
 });
